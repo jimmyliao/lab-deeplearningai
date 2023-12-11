@@ -17,7 +17,7 @@ git lfs install
 git clone git@hf.co:BAAI/bge-small-en-v1.5
 ```
 
-## Run L1 and L2 notebook
+## Run L1 ~ L4 notebook
 
 ### Open Leaderboard on http://localhost:8501
 
