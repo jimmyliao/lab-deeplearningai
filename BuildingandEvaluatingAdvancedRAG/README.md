@@ -1,4 +1,13 @@
 
+# Origin Course
+[Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+
+# Background
+
+![RAG Triad](./rag_triad.png)
+
+
+# Usage
 
 ## Download BGE model
 ### Make sure you have git-lfs installed, and have HuggingFace token access
